@@ -10,7 +10,6 @@ Test Teardown       Finish Test
 *** Test Cases ***
 Deve negociar a figurinha do Neymar Legend
     Do Login
-
     Search User                 legend
     Select Stciker              Neymar Jr
     Get In Touch

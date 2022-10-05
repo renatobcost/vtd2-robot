@@ -1,10 +1,10 @@
 
 *** Settings ***
-Documentation       Página de login
+Documentation       Página de dashboard
 Library             Browser
 
-*** Keywords ***
 
+*** Keywords ***
 User Logged in
     ${header-title}     
     ...                 Set Variable

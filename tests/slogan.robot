@@ -3,8 +3,10 @@
 Documentation   Slogan Tests
 Library     Browser
 
+
 *** Variables ***
 ${slogan}   Conectando colecionadores de figurinhas da copa.
+
 
 *** Test Cases ***
 Deve validar o slogan da home page 

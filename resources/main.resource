@@ -10,9 +10,7 @@ Resource            pages/dash.resource
 *** Keywords ***
 Do Login
     Go To Login Page
-    Submit Email                papito@gmail.com 
-    Submit Password             vaibrasil 
-    Click btn
+    Submit Credentials      papito@gmail.com        vaibrasil
     User Logged in
 
 
